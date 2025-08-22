@@ -1,0 +1,6 @@
+InvoiceID,CustomerID,Product,Quantity,Price,Date
+1001,C001,Shampoo,2,150,2024-01-05
+1002,C002,Soap,5,40,2024-01-05
+1003,C003,Toothpaste,3,60,2024-01-06
+1004,C001,Shampoo,1,150,2024-01-06
+1005,C004,Lotion,2,200,2024-01-07
